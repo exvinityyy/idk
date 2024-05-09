@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightseagreen;
+}
+
+h1 {
+    color: steelblue;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: turquoise;
+}
+
+footer p{
+    background-color: lightgray;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+nav a {
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: turquoise;
+}
+
+.rares {
+    background-color: orangered;
+    
+}
